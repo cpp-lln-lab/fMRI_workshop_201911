@@ -1,22 +1,73 @@
-# fMRI workshop november 2019
+# UCLouvain fMRI workshop - november 2019
 
-In the context of an ISPY-funded stay at UCLouvain of Jorge Jovicich, director of the MRI lab at CIMeC-IT, we plan to organise an (f)MRI workshop between November 27 to 29.
+In the context of an ISPY-funded stay at UCLouvain of Jorge Jovicich, director of the MRI lab at CIMeC-IT, we will organise an (f)MRI workshop November 27 to 29, 2019.
 
-Two additional fMRI experts, Christophe Phillips (Ulg) and Hans Op de Beeck (KUL) will also participate in the workshop.
+Additional speakers in the workshop will be
+- Christophe Phillips (Ulg)
+- Hans Op de Beeck (KUL)
+- Mohamed Rezk (UCLouvain),
+- Remi Gau (UCLouvain)
+- Olivier Collignon (UCLouvain)
 
-This workshop on (f)MRI will likely be registered as an official course at the FNRS psycheduc and neuroscience doctoral schools. This means that students registered at those doctoral schools could be credited. We are currently working on it.
+Phd students registered in an FNRS doctoral school will surely be able to credit this training activity.
 
-At the moment we are targeting a 2-3 days workshop with 4 or 5 "modules" (half-days).
+The workshop targets beginners and aim to explain the basic principles of (f)MRI recording and analyses. So no previous knowledge is required. Intermediate/advanced neuroimagers may surely find it useful to refresh or consolidate their knowledge but the workshop is not designed to cover the latest methodological trends.
 
-The main idea is to cover the main topics of (f)MRI, from data acquisition, signal preprocessing to modern univariate/multivariate analyses. Because the workshop will only be 2-3 days, it does not aim to go into details but the goal is to sketch modern views on how to acquire, organise and process (f)MRI data to solve cognitive/system neuroscience questions. We hope that the course will be suitable for beginners and more advanced users (at least it would "refresh" some concepts in the advanced users). In sum, everyone is welcome, from Msc students to PI.
+The workshop will be free of charge for anyone attending and will be held in English.
 
-Our aim is that the workshop will be free of charge for anyone attending.
-If interested in participating, please complete [THIS FORM](https://docs.google.com/forms/d/e/1FAIpQLSc8RD_SfuqnvSVCB55CeY9KiA-ALvEV6Hgm9Dy1k37A9jQltQ/viewform) by **Monday September 23rd**. The number of interested people will determine some practical organisational decisions (e.g. the room etc...).
+The first 2 days are mostly "theoretical" and will take place at Auditoire Central J. MAISIN (max. 120 persons), Rue Emmanuelle Mounier 51, 1200 Brussels (Wolluwé).
 
-Also, we have a specific question in the form regarding your interest in having a hands-on session showing, in a practical ways, how to organise and handle (f)MRI data based on a pipeline my lab is using/developing. If the number of people interested is sufficient, we will add this session in addition to the theoretical "modules".
+The last day is more "practical" (including hands-on) and will take place at Salle Shannon - Maxwell Building - Place du Levant, 3, Louvain-la-Neuve.
+Due to practical constraints, this last day is limited to max. 50 people. If more than 50 people are interested, priority will be given to early Phd students.
 
-People from outside UCLouvain will also be welcome but we first do a quick "in-house" check.
+To register for the last day, it is mandatory that you come with your own laptop with matlab installed (for the hands-on).
 
-A more detailed email regarding the organisation of this workshop will come later on.
+Aside the formal "teaching", we will try to have moments for informal discussions with the speakers during breaks, including having a drink at the end of the day in a bar nearby (make sure to add this in the agenda).
 
-Please feel free to share this information to anyone you think might be interested.
+
+##  PRELIMINARY PROGRAM
+
+### Day1: November 27th
+
+**Location:** Auditoire Central J. MAISIN (max. 120 persons), Rue Emmanuelle Mounier 51, 1200 Brussels (Wolluwé)
+
+#### Morning: Jorge Jovicich
+
+-   Basics: NMR signal, generating an MRI, MRI contrast
+-   Structural MRI: Contrasts for morphometry. Challenges
+
+#### Afternoon: Jorge Jovicich
+
+-   Functional MRI: BOLD contrast. Fast MRI. Preprocessing. Challenges
+-   Diffusion MRI: Diffusion contrast. Preprocessing. Tractography. Challenges
+
+
+### Day 2: November 28th
+
+**Location:** Auditoire Central J. MAISIN (max. 120 persons), Rue Emmanuelle Mounier 51, 1200 Brussels (Wolluwé)
+
+#### Morning: Christophe Phillips
+
+-   GLM principle & 1st level fMRI model, aka. FFX
+-   Contrasts & Classical Inference
+-   Group analysis, aka. RFX
+-   Mulitple Comparison & Image-wise inference
+-   Functional and effective connectivity (eg PPI, DCM)- if times allow.
+
+#### Afternoon: Hans Op de Beeck
+
+-   Multivariate analyses: History, principles, advantages....
+-   Multivariate analyses:The methods (Correlation, Decoding, RSA....)
+-   Multivariate connectivity
+
+
+### Day 3: November 29th
+
+**Location:** Salle Shannon - Maxwell Building - Place du Levant, 3, Louvain-la-Neuve
+
+#### Morning and afternoon: Mohamed + Remi + Olivier
+
+-   Experimental design
+-   Illustration of the different methods with real data
+-   BIDS format + Github (scripts)
+-   Hands-on
