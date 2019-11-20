@@ -13,22 +13,51 @@ Phd students registered in an FNRS doctoral school will surely be able to credit
 
 The workshop targets beginners and aim to explain the basic principles of (f)MRI recording and analyses. So no previous knowledge is required. Intermediate/advanced neuroimagers may surely find it useful to refresh or consolidate their knowledge but the workshop is not designed to cover the latest methodological trends.
 
+Aside the formal "teaching", we will try to have moments for informal discussions with the speakers during breaks, including having a drink at the end of the day in a bar nearby (make sure to add this in the agenda).
+
 The workshop will be free of charge for anyone attending and will be held in English.
+
+## Theory
 
 The first 2 days are mostly "theoretical" and will take place at Auditoire Central J. MAISIN (max. 120 persons), Rue Emmanuelle Mounier 51, 1200 Brussels (Wolluwé).
 
+## Practice
+
 The last day is more "practical" (including hands-on) and will take place at Salle Shannon - Maxwell Building - Place du Levant, 3, Louvain-la-Neuve.
+
 Due to practical constraints, this last day is limited to max. 50 people. If more than 50 people are interested, priority will be given to early Phd students.
 
-To register for the last day, it is mandatory that you come with your own laptop with matlab installed (for the hands-on).
+For the practical, it is mandatory that you come with your own laptop and have the following things on it:
 
-Aside the formal "teaching", we will try to have moments for informal discussions with the speakers during breaks, including having a drink at the end of the day in a bar nearby (make sure to add this in the agenda).
+-   5 gigabytes of free space to comfortably run the analysis
+-   Matlab
+-   [Atom text editor](https://atom.io/)
+-   [MRIcron](https://www.nitrc.org/projects/mricron/) and [MRIcroGL](https://www.nitrc.org/frs/?group_id=889) for the easy visualization of MRI images
+-   [SPM12](https://www.fil.ion.ucl.ac.uk/spm/software/download/)
+-   Code for the automated analysis pipeline [v0.0.1](https://github.com/cpp-lln-lab/CPP_BIDS_SPM_pipeline/releases/tag/v0.0.1)
+-   Data we will be using for the practical:
+  -   for preprocessing and subject level analysis: the `raw_additional.zip` from this [zenodo repository](https://zenodo.org/record/3548326)
+  -   for the group level analysis: the `derivatives_group.zip` from this [zenodo repository](https://zenodo.org/record/3548326)
 
+Further information on installation and updates will be posted [here](https://github.com/cpp-lln-lab/fMRI_workshop_201911)
+
+If you have trouble with installing any of those, we can also help you set those up in the 2 days prior to the practical.
+
+### Add SPM to the matlab path
+Type the following in the matlab command line and modify the `path_to_SPM` so that it matches the path of where you have unzipped SPM on your computer:
+```matlab
+addpath(path_to_SPM)
+```
+
+Start SPM by typing this in the matlab command line:
+```matlab
+spm fmri
+```
 
 ##  PRELIMINARY PROGRAM
 
 ### Day1: November 27th
-
+[]
 **Location:** Auditoire Central J. MAISIN (max. 120 persons), Rue Emmanuelle Mounier 51, 1200 Brussels (Wolluwé)
 
 #### Morning: Jorge Jovicich
