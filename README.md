@@ -1,5 +1,9 @@
-Join our [slack workspace](https://join.slack.com/t/fmriworkshopuclouvain/shared_invite/enQtODQ3NTc3NjkwMTUwLWJmZDQzN2ZmZjdlNmU2NTBjNDFhODUwMzg5ODUxNGNjNzI4YjlmMTcwYzY4M2VhYTQzZGRmOTFhMWZjMjFlZmE) to keep in touch and exchange information quickly with all the participants. 
+Join our [slack workspace](https://join.slack.com/t/fmriworkshopuclouvain/shared_invite/enQtODQ3NTc3NjkwMTUwLWJmZDQzN2ZmZjdlNmU2NTBjNDFhODUwMzg5ODUxNGNjNzI4YjlmMTcwYzY4M2VhYTQzZGRmOTFhMWZjMjFlZmE) to keep in touch and exchange information quickly with all the participants.
 
+___
+
+**IMPORTANT: The workshop will start at 8H30 every day.**
+___
 
 # UCLouvain fMRI workshop - november 2019
 
@@ -23,6 +27,8 @@ The workshop will be free of charge for anyone attending and will be held in Eng
 
 ##  PRELIMINARY PROGRAM
 
+
+
 The first 2 days are mostly "theoretical" and the last day is more "practical" (including hands-on). Due to practical constraints, this last day is limited to max. 50 people. If more than 50 people are interested, priority will be given to early Phd students.
 
 
@@ -31,6 +37,8 @@ The first 2 days are mostly "theoretical" and the last day is more "practical" (
 **Location:** Auditoire Central J. MAISIN (max. 120 persons), Rue Emmanuelle Mounier 51, 1200 Brussels (Wolluwé) ([google map](https://goo.gl/maps/kv6Sxp86fmr6PEYv8) ; [pdf](./map_wolluwe.pdf))
 
 #### Morning: Jorge Jovicich
+
+**Start at 8H30**
 
 -   Basics: NMR signal, generating an MRI, MRI contrast
 -   Structural MRI: Contrasts for morphometry. Challenges
@@ -42,6 +50,8 @@ The first 2 days are mostly "theoretical" and the last day is more "practical" (
 
 
 ### Day 2: November 28th
+
+**Start at 8H30**
 
 **Location:** Auditoire Central J. MAISIN (max. 120 persons), Rue Emmanuelle Mounier 51, 1200 Brussels (Wolluwé) ([google map](https://goo.gl/maps/kv6Sxp86fmr6PEYv8) ; [pdf](./map_wolluwe.pdf))
 
@@ -61,6 +71,8 @@ The first 2 days are mostly "theoretical" and the last day is more "practical" (
 
 
 ### Day 3: November 29th
+
+**Start at 8H30**
 
 **Location:** Salle Shannon - Maxwell Building - Place du Levant, 3, Louvain-la-Neuve  ([google map](https://goo.gl/maps/UYkweqZo7QsLxbyWA))
 
