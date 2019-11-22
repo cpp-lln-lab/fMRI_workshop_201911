@@ -1,3 +1,6 @@
+Join our [slack workspace](https://join.slack.com/t/fmriworkshopuclouvain/shared_invite/enQtODQ3NTc3NjkwMTUwLWJmZDQzN2ZmZjdlNmU2NTBjNDFhODUwMzg5ODUxNGNjNzI4YjlmMTcwYzY4M2VhYTQzZGRmOTFhMWZjMjFlZmE) to keep in touch and exchange information quickly with all the participants. 
+
+
 # UCLouvain fMRI workshop - november 2019
 
 In the context of an ISPY-funded stay at UCLouvain of Jorge Jovicich, director of the MRI lab at CIMeC-IT, we will organise an (f)MRI workshop November 27 to 29, 2019.
@@ -17,50 +20,15 @@ Aside the formal "teaching", we will try to have moments for informal discussion
 
 The workshop will be free of charge for anyone attending and will be held in English.
 
-## Theory
-
-The first 2 days are mostly "theoretical" and will take place at Auditoire Central J. MAISIN (max. 120 persons), Rue Emmanuelle Mounier 51, 1200 Brussels (Wolluwé).
-
-## Practice
-
-The last day is more "practical" (including hands-on) and will take place at Salle Shannon - Maxwell Building - Place du Levant, 3, Louvain-la-Neuve.
-
-Due to practical constraints, this last day is limited to max. 50 people. If more than 50 people are interested, priority will be given to early Phd students.
-
-For the practical, it is mandatory that you come with your own laptop and have the following things on it:
-
--   5 gigabytes of free space to comfortably run the analysis
--   Matlab
--   [Atom text editor](https://atom.io/)
--   [MRIcron](https://www.nitrc.org/projects/mricron/) and [MRIcroGL](https://www.nitrc.org/frs/?group_id=889) for the easy visualization of MRI images
--   [SPM12](https://www.fil.ion.ucl.ac.uk/spm/software/download/)
--   Code for the automated analysis pipeline [v0.0.1](https://github.com/cpp-lln-lab/CPP_BIDS_SPM_pipeline/releases/tag/v0.0.1)
--   Data we will be using for the practical:
-  -   for preprocessing and subject level analysis: the `raw_additional.zip` from this [zenodo repository](https://doi.org/10.5281/zenodo.3548325)
-  -   for the group level analysis: the `derivatives_group.zip` from this [zenodo repository](https://doi.org/10.5281/zenodo.3548325)
-
-Further information on installation and updates will be posted [here](https://github.com/cpp-lln-lab/fMRI_workshop_201911)
-
-If you have trouble with installing any of those, we can also help you set those up in the 2 days prior to the practical.
-
-### Add SPM to the matlab path
-Type the following in the matlab command line and modify the `path_to_SPM` so that it matches the path of where you have unzipped SPM on your computer:
-```matlab
-addpath(path_to_SPM)
-```
-
-Start SPM by typing this in the matlab command line:
-```matlab
-spm fmri
-```
-
 
 ##  PRELIMINARY PROGRAM
+
+The first 2 days are mostly "theoretical" and the last day is more "practical" (including hands-on). Due to practical constraints, this last day is limited to max. 50 people. If more than 50 people are interested, priority will be given to early Phd students.
 
 
 ### Day1: November 27th
 
-**Location:** Auditoire Central J. MAISIN (max. 120 persons), Rue Emmanuelle Mounier 51, 1200 Brussels (Wolluwé)
+**Location:** Auditoire Central J. MAISIN (max. 120 persons), Rue Emmanuelle Mounier 51, 1200 Brussels (Wolluwé) ([google map](https://goo.gl/maps/kv6Sxp86fmr6PEYv8) ; [pdf](./map_wolluwe.pdf))
 
 #### Morning: Jorge Jovicich
 
@@ -75,7 +43,7 @@ spm fmri
 
 ### Day 2: November 28th
 
-**Location:** Auditoire Central J. MAISIN (max. 120 persons), Rue Emmanuelle Mounier 51, 1200 Brussels (Wolluwé)
+**Location:** Auditoire Central J. MAISIN (max. 120 persons), Rue Emmanuelle Mounier 51, 1200 Brussels (Wolluwé) ([google map](https://goo.gl/maps/kv6Sxp86fmr6PEYv8) ; [pdf](./map_wolluwe.pdf))
 
 #### Morning: Christophe Phillips
 
@@ -94,7 +62,7 @@ spm fmri
 
 ### Day 3: November 29th
 
-**Location:** Salle Shannon - Maxwell Building - Place du Levant, 3, Louvain-la-Neuve
+**Location:** Salle Shannon - Maxwell Building - Place du Levant, 3, Louvain-la-Neuve  ([google map](https://goo.gl/maps/UYkweqZo7QsLxbyWA))
 
 #### Morning and afternoon: Mohamed + Remi + Olivier
 
@@ -102,3 +70,44 @@ spm fmri
 -   Illustration of the different methods with real data
 -   BIDS format + Github (scripts)
 -   Hands-on
+
+
+## Practical information
+
+
+### What you will need
+
+For the hands-on part, it is mandatory that you come with your own laptop and have the following things on it:
+
+-   5 gigabytes of free space to comfortably run the analysis
+-   Matlab
+-   [Atom text editor](https://atom.io/)
+-   [MRIcron](https://www.nitrc.org/projects/mricron/) and [MRIcroGL](https://www.nitrc.org/frs/?group_id=889) for the easy visualization of MRI images
+-   [SPM12](https://www.fil.ion.ucl.ac.uk/spm/software/download/)
+-   Code for the automated analysis pipeline [v0.0.1](https://github.com/cpp-lln-lab/CPP_BIDS_SPM_pipeline/releases/tag/v0.0.1)
+-   Data we will be using for the practical:
+  -   for preprocessing and subject level analysis: the `raw_additional.zip` from this [zenodo repository](https://doi.org/10.5281/zenodo.3548325)
+  -   for the group level analysis: the `derivatives_group.zip` from this [zenodo repository](https://doi.org/10.5281/zenodo.3548325)
+
+Further information on installation and updates will be posted [here](https://github.com/cpp-lln-lab/fMRI_workshop_201911)
+
+If you have trouble with installing any of those, we can also help you set those up in the 2 days prior to the practical.
+
+### Installing SPM12
+
+Once you have downloaded SPM we need to tell matlab where it is located on your computer. This is done by adding the SPM folder into the matlab `path` (a set of folders where matlab will automatically look into when asked to run a specific function or program).
+
+Type the following in the matlab command line and modify the `path_to_SPM` so that it matches the path of where you have unzipped SPM on your computer:
+```matlab
+addpath(path_to_SPM) %this will add SPM to the matlab path
+```
+
+If you don't want to do that every time you start matlab, you can just type:
+```matlab
+savepath %this saves the current state of the path for future sessions
+```
+
+Start SPM by typing this in the matlab command line:
+```matlab
+spm % starts the SPM (the graphic interface by default)
+```
