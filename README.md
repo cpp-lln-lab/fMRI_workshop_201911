@@ -36,8 +36,8 @@ For the practical, it is mandatory that you come with your own laptop and have t
 -   [SPM12](https://www.fil.ion.ucl.ac.uk/spm/software/download/)
 -   Code for the automated analysis pipeline [v0.0.1](https://github.com/cpp-lln-lab/CPP_BIDS_SPM_pipeline/releases/tag/v0.0.1)
 -   Data we will be using for the practical:
-  -   for preprocessing and subject level analysis: the `raw_additional.zip` from this [zenodo repository](https://zenodo.org/record/3548326)
-  -   for the group level analysis: the `derivatives_group.zip` from this [zenodo repository](https://zenodo.org/record/3548326)
+  -   for preprocessing and subject level analysis: the `raw_additional.zip` from this [zenodo repository](https://doi.org/10.5281/zenodo.3548325)
+  -   for the group level analysis: the `derivatives_group.zip` from this [zenodo repository](https://doi.org/10.5281/zenodo.3548325)
 
 Further information on installation and updates will be posted [here](https://github.com/cpp-lln-lab/fMRI_workshop_201911)
 
@@ -54,10 +54,12 @@ Start SPM by typing this in the matlab command line:
 spm fmri
 ```
 
+
 ##  PRELIMINARY PROGRAM
 
+
 ### Day1: November 27th
-[]
+
 **Location:** Auditoire Central J. MAISIN (max. 120 persons), Rue Emmanuelle Mounier 51, 1200 Brussels (Wolluwé)
 
 #### Morning: Jorge Jovicich
@@ -86,7 +88,7 @@ spm fmri
 #### Afternoon: Hans Op de Beeck
 
 -   Multivariate analyses: History, principles, advantages....
--   Multivariate analyses:The methods (Correlation, Decoding, RSA....)
+-   Multivariate analyses: The methods (Correlation, Decoding, RSA....)
 -   Multivariate connectivity
 
 
