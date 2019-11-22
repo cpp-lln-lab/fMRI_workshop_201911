@@ -38,6 +38,8 @@ The first 2 days are mostly "theoretical" and the last day is more "practical" (
 
 #### Morning: Jorge Jovicich
 
+**Start at 8H30**
+
 -   Basics: NMR signal, generating an MRI, MRI contrast
 -   Structural MRI: Contrasts for morphometry. Challenges
 
@@ -48,6 +50,8 @@ The first 2 days are mostly "theoretical" and the last day is more "practical" (
 
 
 ### Day 2: November 28th
+
+**Start at 8H30**
 
 **Location:** Auditoire Central J. MAISIN (max. 120 persons), Rue Emmanuelle Mounier 51, 1200 Brussels (Wolluwé) ([google map](https://goo.gl/maps/kv6Sxp86fmr6PEYv8) ; [pdf](./map_wolluwe.pdf))
 
@@ -67,6 +71,8 @@ The first 2 days are mostly "theoretical" and the last day is more "practical" (
 
 
 ### Day 3: November 29th
+
+**Start at 8H30**
 
 **Location:** Salle Shannon - Maxwell Building - Place du Levant, 3, Louvain-la-Neuve  ([google map](https://goo.gl/maps/UYkweqZo7QsLxbyWA))
 
