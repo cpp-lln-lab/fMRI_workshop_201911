@@ -6,6 +6,26 @@ ___
 ___
 
 
+<!-- TOC -->
+
+- [UCLouvain fMRI workshop - november 2019](#uclouvain-fmri-workshop---november-2019)
+  - [PRELIMINARY PROGRAM](#preliminary-program)
+    - [Day1: November 27th](#day1-november-27th)
+      - [Morning: Jorge Jovicich](#morning-jorge-jovicich)
+      - [Afternoon: Jorge Jovicich](#afternoon-jorge-jovicich)
+      - [Evening: get together for a drink](#evening-get-together-for-a-drink)
+    - [Day 2: November 28th](#day-2-november-28th)
+      - [Morning: Christophe Phillips](#morning-christophe-phillips)
+      - [Afternoon: Hans Op de Beeck](#afternoon-hans-op-de-beeck)
+    - [Day 3: November 29th](#day-3-november-29th)
+      - [Morning and afternoon: Mohamed + Remi + Olivier](#morning-and-afternoon-mohamed--remi--olivier)
+  - [Practical information](#practical-information)
+    - [What you will need](#what-you-will-need)
+    - [Installing SPM12](#installing-spm12)
+
+<!-- /TOC -->
+
+
 # UCLouvain fMRI workshop - november 2019
 
 In the context of an ISPY-funded stay at UCLouvain of Jorge Jovicich, director of the MRI lab at CIMeC-IT, we will organise an (f)MRI workshop November 27 to 29, 2019.
