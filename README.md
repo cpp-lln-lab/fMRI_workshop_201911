@@ -1,8 +1,10 @@
 Join our [slack workspace](https://join.slack.com/t/fmriworkshopuclouvain/shared_invite/enQtODQ3NTc3NjkwMTUwLWJmZDQzN2ZmZjdlNmU2NTBjNDFhODUwMzg5ODUxNGNjNzI4YjlmMTcwYzY4M2VhYTQzZGRmOTFhMWZjMjFlZmE) to keep in touch and exchange information quickly with all the participants.
 
-___
+**IMPORTANT: Fill our [feedback survey](https://forms.gle/GMhqFdjKfqva7bvaA), please :-)**
 
-**IMPORTANT: The workshop will start at 8H30 every day.**
+[Hands-on slides](https://docs.google.com/presentation/d/1R9nks5vpHQduNcjewRaLr1KDpNLBg-8fN1-PfdhGpXM/edit?usp=sharing)
+[Hands-on google doc](https://docs.google.com/document/d/1HKXR65TYYjriV29-EZRXevcEuR8WSTzOTK0cJqXsWPw/edit?usp=sharing)
+
 ___
 
 
@@ -117,6 +119,9 @@ ___
 
 
 #### Morning and afternoon: Mohamed + Remi + Olivier
+
+[Hands-on slides](https://docs.google.com/presentation/d/1R9nks5vpHQduNcjewRaLr1KDpNLBg-8fN1-PfdhGpXM/edit?usp=sharing)
+[Hands-on google doc](https://docs.google.com/document/d/1HKXR65TYYjriV29-EZRXevcEuR8WSTzOTK0cJqXsWPw/edit?usp=sharing)
 
 **Hands On**
 
