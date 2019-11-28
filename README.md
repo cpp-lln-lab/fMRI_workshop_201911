@@ -121,6 +121,7 @@ ___
 #### Morning and afternoon: Mohamed + Remi + Olivier
 
 [Hands-on slides](https://docs.google.com/presentation/d/1R9nks5vpHQduNcjewRaLr1KDpNLBg-8fN1-PfdhGpXM/edit?usp=sharing)
+
 [Hands-on google doc](https://docs.google.com/document/d/1HKXR65TYYjriV29-EZRXevcEuR8WSTzOTK0cJqXsWPw/edit?usp=sharing)
 
 **Hands On**
