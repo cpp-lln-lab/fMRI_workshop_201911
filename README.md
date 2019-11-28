@@ -3,6 +3,7 @@ Join our [slack workspace](https://join.slack.com/t/fmriworkshopuclouvain/shared
 **IMPORTANT: Fill our [feedback survey](https://forms.gle/GMhqFdjKfqva7bvaA), please :-)**
 
 [Hands-on slides](https://docs.google.com/presentation/d/1R9nks5vpHQduNcjewRaLr1KDpNLBg-8fN1-PfdhGpXM/edit?usp=sharing)
+
 [Hands-on google doc](https://docs.google.com/document/d/1HKXR65TYYjriV29-EZRXevcEuR8WSTzOTK0cJqXsWPw/edit?usp=sharing)
 
 ___
