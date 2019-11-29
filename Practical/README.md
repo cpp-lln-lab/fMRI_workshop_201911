@@ -48,7 +48,7 @@ For the hands-on part, it is mandatory that you come with your own laptop and ha
 -   [Atom text editor](https://atom.io/)
 -   [MRIcron](https://www.nitrc.org/projects/mricron/) and [MRIcroGL](https://www.nitrc.org/frs/?group_id=889) for the easy visualization of MRI images
 -   [SPM12](https://www.fil.ion.ucl.ac.uk/spm/software/download/)
--   Code for the automated analysis pipeline from the CPP lab (from [zenodo](https://doi.org/10.5281/zenodo.3548325) or get the latest version from [github](https://github.com/cpp-lln-lab/CPP_BIDS_SPM_pipeline/releases) )
+-   Code for the automated analysis pipeline from the CPP lab (from [zenodo](https://doi.org/10.5281/zenodo.3554331) or get the latest version from [github](https://github.com/cpp-lln-lab/CPP_BIDS_SPM_pipeline/releases) )
 -   Data we will be using for the practical:
   -   for preprocessing and subject level analysis: the `raw_additional.zip` from this [zenodo repository](https://doi.org/10.5281/zenodo.3548325)
   -   for the group level analysis: the `derivatives_group.zip` from this [zenodo repository](https://doi.org/10.5281/zenodo.3548325)
@@ -56,7 +56,6 @@ For the hands-on part, it is mandatory that you come with your own laptop and ha
 Further information on installation and updates will be posted [here](https://github.com/cpp-lln-lab/fMRI_workshop_201911)
 
 If you have trouble with installing any of those, we can also help you set those up in the 2 days prior to the practical.
-
 
 ### Installing SPM12
 
