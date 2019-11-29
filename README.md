@@ -1,8 +1,11 @@
 Join our [slack workspace](https://join.slack.com/t/fmriworkshopuclouvain/shared_invite/enQtODQ3NTc3NjkwMTUwLWJmZDQzN2ZmZjdlNmU2NTBjNDFhODUwMzg5ODUxNGNjNzI4YjlmMTcwYzY4M2VhYTQzZGRmOTFhMWZjMjFlZmE) to keep in touch and exchange information quickly with all the participants.
 
-___
+**IMPORTANT: Fill our [feedback survey](https://forms.gle/GMhqFdjKfqva7bvaA), please :-)**
 
-**IMPORTANT: The workshop will start at 8H30 every day.**
+[Hands-on slides](https://docs.google.com/presentation/d/1R9nks5vpHQduNcjewRaLr1KDpNLBg-8fN1-PfdhGpXM/edit?usp=sharing)
+
+[Hands-on google doc](https://docs.google.com/document/d/1HKXR65TYYjriV29-EZRXevcEuR8WSTzOTK0cJqXsWPw/edit?usp=sharing)
+
 ___
 
 
@@ -118,6 +121,10 @@ ___
 
 #### Morning and afternoon: Mohamed + Remi + Olivier
 
+[Hands-on slides](https://docs.google.com/presentation/d/1R9nks5vpHQduNcjewRaLr1KDpNLBg-8fN1-PfdhGpXM/edit?usp=sharing)
+
+[Hands-on google doc](https://docs.google.com/document/d/1HKXR65TYYjriV29-EZRXevcEuR8WSTzOTK0cJqXsWPw/edit?usp=sharing)
+
 **Hands On**
 
 - How to design your fMRI experiment
@@ -150,7 +157,7 @@ For the hands-on part, it is mandatory that you come with your own laptop and ha
 -   [Atom text editor](https://atom.io/)
 -   [MRIcron](https://www.nitrc.org/projects/mricron/) and [MRIcroGL](https://www.nitrc.org/frs/?group_id=889) for the easy visualization of MRI images
 -   [SPM12](https://www.fil.ion.ucl.ac.uk/spm/software/download/)
--   Code for the automated analysis pipeline from the CPP lab (from [zenodo](https://doi.org/10.5281/zenodo.3554332) or get the latest version from [github](https://github.com/cpp-lln-lab/CPP_BIDS_SPM_pipeline/releases) )
+-   Code for the automated analysis pipeline from the CPP lab (from [zenodo](https://doi.org/10.5281/zenodo.3554331) or get the latest version from [github](https://github.com/cpp-lln-lab/CPP_BIDS_SPM_pipeline/releases)
 -   Data we will be using for the practical:
   -   for preprocessing and subject level analysis: the `raw_additional.zip` from this [zenodo repository](https://doi.org/10.5281/zenodo.3548325)
   -   for the group level analysis: the `derivatives_group.zip` from this [zenodo repository](https://doi.org/10.5281/zenodo.3548325)
