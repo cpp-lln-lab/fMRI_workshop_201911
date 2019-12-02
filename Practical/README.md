@@ -1,8 +1,3 @@
-[Hands-on slides](https://docs.google.com/presentation/d/1R9nks5vpHQduNcjewRaLr1KDpNLBg-8fN1-PfdhGpXM/edit?usp=sharing)
-
-[Hands-on google doc](https://docs.google.com/document/d/1HKXR65TYYjriV29-EZRXevcEuR8WSTzOTK0cJqXsWPw/edit?usp=sharing)
-
-
 ### Day 3: November 29th
 
 **Start at 8H30**
@@ -11,10 +6,6 @@
 
 
 #### Morning and afternoon: Mohamed + Remi + Olivier
-
-[Hands-on slides](https://docs.google.com/presentation/d/1R9nks5vpHQduNcjewRaLr1KDpNLBg-8fN1-PfdhGpXM/edit?usp=sharing)
-
-[Hands-on google doc](https://docs.google.com/document/d/1HKXR65TYYjriV29-EZRXevcEuR8WSTzOTK0cJqXsWPw/edit?usp=sharing)
 
 **Hands On**
 
@@ -52,8 +43,6 @@ For the hands-on part, it is mandatory that you come with your own laptop and ha
 -   Data we will be using for the practical:
   -   for preprocessing and subject level analysis: the `raw_additional.zip` from this [zenodo repository](https://doi.org/10.5281/zenodo.3548325)
   -   for the group level analysis: the `derivatives_group.zip` from this [zenodo repository](https://doi.org/10.5281/zenodo.3548325)
-
-Further information on installation and updates will be posted [here](https://github.com/cpp-lln-lab/fMRI_workshop_201911)
 
 If you have trouble with installing any of those, we can also help you set those up in the 2 days prior to the practical.
 
